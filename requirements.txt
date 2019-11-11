@@ -1,0 +1,2 @@
+canvasapi==0.14.0
+console-menu==0.6.0
